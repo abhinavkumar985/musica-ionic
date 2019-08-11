@@ -1,5 +1,8 @@
 {
   "name": "musica",
-  "integrations": {},
-  "type": "ionic-angular"
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "c8bb1c37"
 }
